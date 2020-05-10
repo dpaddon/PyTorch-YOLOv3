@@ -1,1 +1,10 @@
-data/custom/images/train.jpg
+/Users/daniel/Documents/Coding/spirit/src/models/PyTorch-YOLOv3/data/custom/images/gin_0.jpg
+/Users/daniel/Documents/Coding/spirit/src/models/PyTorch-YOLOv3/data/custom/images/gin_1.jpg
+/Users/daniel/Documents/Coding/spirit/src/models/PyTorch-YOLOv3/data/custom/images/rum_0.jpg
+/Users/daniel/Documents/Coding/spirit/src/models/PyTorch-YOLOv3/data/custom/images/rum_1.jpg
+/Users/daniel/Documents/Coding/spirit/src/models/PyTorch-YOLOv3/data/custom/images/vodka_0.jpg
+/Users/daniel/Documents/Coding/spirit/src/models/PyTorch-YOLOv3/data/custom/images/vodka_1.jpg
+/Users/daniel/Documents/Coding/spirit/src/models/PyTorch-YOLOv3/data/custom/images/whiskey_0.jpg
+/Users/daniel/Documents/Coding/spirit/src/models/PyTorch-YOLOv3/data/custom/images/whiskey_1.jpg
+/Users/daniel/Documents/Coding/spirit/src/models/PyTorch-YOLOv3/data/custom/images/whisky_0.jpg
+/Users/daniel/Documents/Coding/spirit/src/models/PyTorch-YOLOv3/data/custom/images/whisky_1.jpg
